@@ -2,7 +2,7 @@
   background-color: #f8f8ff
 }
 
-#bannerimage {
+.bannerimage {
   width: 100%;
   background-image: url(/img/pic.jpg);
   height: 405px;
