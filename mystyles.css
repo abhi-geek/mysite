@@ -4,7 +4,7 @@
 
 #bannerimage {
   width: 100%;
-  background-image: url(img/pic.jpg);
+  background-image: url(/img/pic.jpg);
   height: 405px;
   background-position: center;
 }
